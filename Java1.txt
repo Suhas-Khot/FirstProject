@@ -3,25 +3,29 @@ print("Hello World")
 
 
 modified 1: 
-fixing the bug 2: 
+Fixing the bug 2: 
 trying to use 3: changing file
 
 modified : -> 
-fixing the bug : -> 
+Fixing the bug : -> 
 trying to use : changing file
 
-modified
+Modified
 fixing the bug
 trying to use 
 
 midifying bug 2 for project 
 
 
-change 4: by teammate for work item 6 logi feature to be includeed and added number
+change 4: By teammate for work item 6 logi feature to be includeed and added number
 
-change -> new line added to work on request and added grater sign (arrow)
+change -> New line added to work on request and added grater sign (arrow)
 
 
 change 7: -> WI 7 cart feature 
 
+
 change 8: -> to see see it on loacal
+
+change 9: on localmaster to check coflict with remote master 
+
